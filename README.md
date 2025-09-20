@@ -2,7 +2,7 @@
 MarcNotes - An Improved Windows Notepad Application
 # MarcNotes - An Improved Windows 10/7/8 Notepad Application
 
-![MarcNotes Logo](https://via.placeholder.com/64x64?text=MN) 
+![MarcNotes Logo](app.png) 
 
 ##  Overview
 
