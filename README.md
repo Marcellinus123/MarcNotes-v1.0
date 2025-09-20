@@ -30,7 +30,7 @@ MarcNotes is an enhanced text editor built with Qt C++ that improves upon the st
 
 ### Output Options
 - **Print Support** - Direct printing from the application
-- **Multiple Format Support** - Work with .txt and .html files
+- **Multiple Format Support** - Work with .txt,csv,.html and many more  text files format
 
 ### Additional Features
 - **Bing Search Integration** - Quickly search selected text online
@@ -46,7 +46,7 @@ MarcNotes is an enhanced text editor built with Qt C++ that improves upon the st
 
 ### Installation Steps
 
-1. Download the latest installer from the [Releases page](https://github.com/yourusername/MarcNotes/releases)
+1. Download the latest installer from the [Releases page](https://github.com/Marcellinus123/MarcNotes-v1.0/releases)
 2. Run `MarcNotesSetup.exe`
 3. Follow the installation wizard prompts
 4. Choose whether to create desktop and start menu shortcuts
@@ -61,8 +61,13 @@ MarcNotesSetup.exe /VERYSILENT /SUPPRESSMSGBOXES /NORESTART
 ## File Associations
 
 MarcNotes can associate with these file types:
-- `.txt` - Text files
-- `.html` - HTML documents
+- `.txt` (Text files): The most fundamental and common type of file MarcNotes handles
+- `.html` (Hypertext Markup Language): Used for web page structure
+- `.csv` (Comma-separated values): Used to store tabular data
+- `.bat` (Batch files): Script files for the Windows command prompt
+- `.log` (Log files): Files that track operations, activities, or usage patterns in software or systems
+- `.ini` (Initialization files): Configuration files used by applications
+- `.css` (Cascading Style Sheets): Used for styling web pages
 
 During installation, you'll be prompted to set these associations. You can change them later through Windows File Associations settings.
 
@@ -89,8 +94,8 @@ During installation, you'll be prompted to set these associations. You can chang
 ## Support
 
 ### Documentation
-- [User Guide](https://github.com/yourusername/MarcNotes/wiki)
-- [FAQ](https://github.com/yourusername/MarcNotes/wiki/FAQ)
+- [User Guide](https://github.com/Marcellinus123/MarcNotes-v1.0/wiki)
+- [FAQ](https://github.com/Marcellinus123/MarcNotes-v1.0/wiki/FAQ)
 
 ### Contact Information
 - **Developer**: Marcellinus Atampugre
@@ -101,22 +106,21 @@ During installation, you'll be prompted to set these associations. You can chang
 - **WhatsApp**: https://wa.me/message/IXPKWICDRZ4II1
 
 ### Reporting Issues
-Found a bug or have a feature request? Please [create an issue](https://github.com/yourusername/MarcNotes/issues) on our GitHub repository.
+Found a bug or have a feature request? Please [create an issue](https://github.com/Marcellinus123/MarcNotes-v1.0/issues) on our GitHub repository.
 
 ## Development
 
 ### Building from Source
 
 #### Prerequisites
-- Qt 5.15+ or Qt 6.x
 - C++17 compatible compiler
 - Inno Setup (for creating installers)
 
 #### Build Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/MarcNotes.git
-   cd MarcNotes
+   git clone https://github.com/Marcellinus123/MarcNotes-v1.0.git
+   cd MarcNotes-v1.0
    ```
 
 2. Open the project in Qt Creator or build from command line:
@@ -142,13 +146,13 @@ MarcNotes/
 ```
 
 ### Contributing
-We welcome contributions! Please see our [Contributing Guidelines](https://github.com/yourusername/MarcNotes/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guidelines](https://github.com/Marcellinus123/MarcNotes-v1.0/blob/main/CONTRIBUTING.md) for details.
 
 ## License
 
 MarcNotes is developed and maintained by Marcbrain Ltd. All rights reserved.
 
-For licensing information, please see the [LICENSE](https://github.com/yourusername/MarcNotes/blob/main/LICENSE.txt) file included with the application.
+For licensing information, please see the [LICENSE](https://github.com/Marcellinus123/MarcNotes-v1.0/blob/main/LICENSE.txt) file included with the application.
 
 ## Version History
 
@@ -172,7 +176,7 @@ For licensing information, please see the [LICENSE](https://github.com/yourusern
 
 ## Acknowledgments
 
-- Qt Framework for the application foundation
+- Windows Widget Framework for the application foundation
 - Inno Setup for installation packaging
 - All contributors and testers
 
