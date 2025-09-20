@@ -1,13 +1,1 @@
-Welcome to the MarcNotes Setup Wizard
-
-MarcNotes is an improved version of Microsoft Windows Notepad, built and published by Marcbrain Ltd.
-Developed by Atampugre Marcellinus.
-
-About Marcbrain Ltd.:
-Founded in 2019, Marcbrain is at the forefront of technological and creative innovation. We specialize in delivering cutting-edge management systems, desktop applications, and Android apps while pushing the boundaries of 3D arts and modeling. Our mission is to empower businesses and individuals with solutions that merge functionality with creativity, ensuring exceptional experiences in both the digital and visual worlds.
-(Formerly known as Emittyarts)
-
-Website: https://www.marcbrain.com
-Phone: +233 248770024 / +233 504276573
-
-Please read the license agreement carefully before proceeding with installation.
+null
