@@ -1,0 +1,33 @@
+MarcNotes End User License Agreement (EULA)
+Copyright (c) 2019-2025 Marcbrain Ltd.
+All rights reserved.
+
+This software is licensed, not sold. By installing or using MarcNotes, you agree to be bound by the terms of this agreement.
+
+1. GRANT OF LICENSE
+   Marcbrain Ltd. grants you a non-exclusive, non-transferable license to install and use MarcNotes on your personal or business computer(s).
+
+2. RESTRICTIONS
+   - You may not reverse engineer, decompile, or disassemble the software.
+   - You may not copy, distribute, or resell the software without written permission from Marcbrain Ltd.
+   - You may not remove or alter any copyright or proprietary notices.
+
+3. OWNERSHIP
+   This software and all related materials are the intellectual property of Marcbrain Ltd. and are protected by copyright and international treaties.
+
+4. DISCLAIMER OF WARRANTY
+   This software is provided "AS IS" without warranty of any kind. Marcbrain Ltd. makes no guarantees regarding reliability, accuracy, or fitness for a particular purpose.
+
+5. LIMITATION OF LIABILITY
+   In no event shall Marcbrain Ltd. or its developers be liable for any damages arising from the use or inability to use this software.
+
+6. SUPPORT & CONTACT
+   For support, contact Marcbrain Ltd. at:
+   Website: https://www.marcbrain.com
+   Phone: +233 248770024 / +233 504276573
+   Email: support@marcbrain.com (if available)
+
+By continuing with the installation, you acknowledge that you have read, understood, and agree to these terms.
+
+Marcbrain Ltd.
+Accra, Ghana
