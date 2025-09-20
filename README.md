@@ -1,4 +1,4 @@
-# MarcNotes-v1.0
+# MarcNotes-v1.0.0
 MarcNotes - An Improved Windows Notepad Application
 # MarcNotes - An Improved Windows 10/7/8 Notepad Application
 
@@ -6,7 +6,7 @@ MarcNotes - An Improved Windows Notepad Application
 
 ##  Overview
 
-MarcNotes is an enhanced text editor built with Qt C++ that improves upon the standard Windows Notepad with additional features and a modern interface. Developed by Marcbrain Ltd., it provides a seamless writing and coding experience with essential text editing capabilities.
+MarcNotes is an enhanced text editor built on C++ that improves upon the standard Windows Notepad with additional features and a modern interface. Developed by Marcbrain Ltd., it provides a seamless writing and coding experience with essential text editing capabilities.
 
 ##  Features
 
